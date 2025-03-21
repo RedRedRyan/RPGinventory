@@ -29,4 +29,4 @@ A flexible inventory system for Unity featuring a 3x3 grid (9 slots), scriptable
 
 2. **Import into Project**
    ```bash
-   git clone https://github.com/yourusername/unity-3x3-inventory-system.git
+   git clone https://github.com/RedRedRyan/RPGinventory.git
