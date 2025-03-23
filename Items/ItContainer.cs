@@ -1,6 +1,8 @@
 using System;
 
 namespace RaveTown.Items
+
+//Item Container
 {
     [Serializable]
     public class ItContainer : ItemContainer
