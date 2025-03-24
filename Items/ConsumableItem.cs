@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace RaveTown.Items
 {
+[CreateAssetMenu(fileName = "New Consumable item", menuName = "Items/Consumable Item")]
 public class ConsumableItem : InventoryItem
 {
         [Header("Consumable Data")]
